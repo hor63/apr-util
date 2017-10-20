@@ -1,0 +1,5 @@
+/apr-util.spec
+/build-outputs.mk
+/configure
+include/private/apu_config.h.in
+
