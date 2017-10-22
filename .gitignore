@@ -17,7 +17,7 @@ Makefile
 /include/apr_ldap.h
 /include/apu.h
 /include/apu_want.h
-/include/private/apu_config.h
+/include/private/apu_config.h*
 /include/private/apu_select_dbm.h
 /autom4te.cache
 
